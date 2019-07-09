@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-07-09 16:32:32" Modified_Date="2019-07-09 16:40:31" Creator="James McNally" Comments="" ID="82e6911fd273a38c04a9f854a3676bb4">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-07-09 16:32:32" Modified_Date="2019-07-09 16:50:16" Creator="James McNally" Comments="" ID="26c51c7928814b3ebea9c4e625f927fc">
   <Library_General_Settings>
     <Package_File_Name>Wiresmith_Technology_lib_G_CLI_VI_Package_Manager_Tools</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>0.1.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -126,9 +126,6 @@
       <Exclusions>
         <Path>G CLI VI Package API.lvproj</Path>
       </Exclusions>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -270,7 +267,7 @@
         <Path>VIPCApply.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E4E0860EDB8F3382A350F81D6E0C247D</GUID>
+      <GUID>C61CFB9698DE4147072F2BDE3EED1ADC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -305,7 +302,7 @@
         <Path>Tests\Get LabVIEW Version Tests</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9283CF3CC21AD09E3A69FF2760CA4ADB</GUID>
+      <GUID>0F0BDFA2C664647971B58A4B372203A4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -368,7 +365,7 @@
         <Path>VIP SubVIs\Version information to VIP API Version.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BA5AB4A77A740EFBC4305DEC0B2C9444</GUID>
+      <GUID>1F3A525143D5E2D4EDB69A381E85D8A8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -487,7 +484,7 @@
         <Path>Tests\Get LabVIEW Version Tests\testExample.vit</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FFB5A79A16B143F8451020B4DD139FCB</GUID>
+      <GUID>1C37DD896D0EADCB1517973B5CC151A6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
