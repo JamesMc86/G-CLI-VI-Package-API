@@ -1,6 +1,11 @@
 # G-CLI-VI-Package-API
 A G CLI tool for interacting with VI Package Manager
 
+# Requirements
+
+* LabVIEW 2011 or higher.
+* VI Package Manager Pro
+
 
 # VIPBuild
 
@@ -31,6 +36,6 @@ g-cli --lv-ver 2018 vipBuild -- -buildNumber 4 myPackage.vipb
 
 ### Example Call
 
-g-cli --lv-ver 2018 vipcApply -- myDependencies.vipc 2018 32
+`g-cli --lv-ver 2018 vipcApply -- myDependencies.vipc 2018 32`
 
 
