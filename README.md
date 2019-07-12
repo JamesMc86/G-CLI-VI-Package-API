@@ -16,6 +16,10 @@ A G CLI tool for interacting with VI Package Manager
 
 * VIPB Path
 
+### Example Call
+
+g-cli --lv-ver 2018 vipBuild -- -buildNumber 4 myPackage.vipb
+
 # VIPCApply
 
 ## Parameters
@@ -23,5 +27,10 @@ A G CLI tool for interacting with VI Package Manager
 * VIPC Path
 * LV Version - e.g. "2014"
 * Bitness - either "64" or "32". Blank will assume 32
+
+
+### Example Call
+
+g-cli --lv-ver 2018 vipcApply -- myDependencies.vipc 2018 32
 
 
