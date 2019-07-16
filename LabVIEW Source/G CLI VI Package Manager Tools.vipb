@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-07-09 16:32:32" Modified_Date="2019-07-12 11:49:29" Creator="James McNally" Comments="" ID="88934db7790a0d3674aeefb4ef637ad4">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-07-09 16:32:32" Modified_Date="2019-07-16 15:01:51" Creator="James McNally" Comments="" ID="521358d4b50358f39c993bf11cb550b6">
   <Library_General_Settings>
     <Package_File_Name>Wiresmith_Technology_lib_G_CLI_VI_Package_Manager_Tools</Package_File_Name>
-    <Library_Version>0.1.0.8</Library_Version>
+    <Library_Version>0.1.1.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
